@@ -1,23 +1,7 @@
-## Hi 👋, I'm kimhnh.
-
-<a href="https://github-readme-stats.vercel.app/api?username=kimhnh&theme=dark#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kimhnh&theme=nord" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=kimhnh&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimhnh&layout=compact&langs_count=8&card_width=320&theme=nord" />
-</a>
-
-<!--
-**kimhnh/kimhnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hi 👋, I'm kimhnh.
+- I'm currently learning React.
+#
+<div>
+  <img height=170em src="https://github-readme-stats.vercel.app/api?username=kimhnh&show_icons=true&theme=dark" />
+  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=kimhnh&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</div>
