@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi 👋, I'm kimhnh.
+
+<a href="https://github-readme-stats.vercel.app/api?username=kimhnh&theme=dark#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kimhnh&theme=nord" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=kimhnh&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimhnh&layout=compact&langs_count=8&card_width=320&theme=nord" />
+</a>
 
 <!--
 **kimhnh/kimhnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
