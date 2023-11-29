@@ -1,5 +1,6 @@
 - Hi 👋, I'm kimhnh.
-- I'm currently learning React.
+- Currently: Learning React and refine knowledge on Mongo, Node and Express.
+- Near future: PostgresSQL and Typescript.
 #
 <div>
   <img height=170em src="https://github-readme-stats.vercel.app/api?username=kimhnh&show_icons=true&theme=dark" />
